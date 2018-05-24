@@ -1,0 +1,13 @@
+class Derick
+
+  def test_method
+    e = 'I'
+    a = 'am'
+    t = 'hungry'
+    now = '!'
+
+    e + a + t + now
+
+  end
+
+end
